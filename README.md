@@ -5,3 +5,5 @@ First of all install Tkinkter
 Next install the graphics package
 
     pip3 install graphics.py
+
+I have put the **screenshots of the executed programs** in the respective assignment folders.
